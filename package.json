@@ -1,0 +1,28 @@
+{
+  "name": "nodeesim",
+  "version": "1.0.0",
+  "description": "Examples about how to use routes with node.js and PostgreSQL.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TiViOpetus/NodeEsim.git"
+  },
+  "keywords": [
+    "Node.js",
+    "PostgreSQL"
+  ],
+  "author": "Mika Vainio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TiViOpetus/NodeEsim/issues"
+  },
+  "homepage": "https://github.com/TiViOpetus/NodeEsim#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "express-handlebars": "^7.1.2"
+  }
+}
